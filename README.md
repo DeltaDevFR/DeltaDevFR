@@ -34,7 +34,7 @@
   // Français :
     Pour me contactez plus facilement par Discord (Prodelta29#8062) 
   // English :
-    To contact me more easily by Discord (Prodelta29 # 8062)
+    To contact me more easily by Discord (Prodelta29#8062)
    
   ## 😄Pronoms / Pronouns 😄
   // Français : 
