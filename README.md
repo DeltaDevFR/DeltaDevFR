@@ -8,7 +8,7 @@
   
   ## 🌱 Apprend / Learn 🌱
   // Français :
-    J'apprend chaque jour de mes erreurs sur du Htmd5/Css ou Javascript.
+    J'apprend chaque jour de mes erreurs sur du Html5/Css ou Javascript.
   // English :
     I learn every day from my mistakes on Htmd5 / Css or Javascript.
   
